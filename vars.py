@@ -1,8 +1,8 @@
-# Don't Remove Credit Tg - @Tushar0125
-# Ask Doubt on telegram @Tushar0125
+# Don't Remove Credit Tg - jay
+# Ask Doubt on telegram 
 
 from os import environ
 
-API_ID = int(environ.get("API_ID", "24473318")) #Replace with your api id
-API_HASH = environ.get("API_HASH", "e7dd0576c5ac0ff8f90971d6bb04c8f5") #Replace with your api hash
-BOT_TOKEN = environ.get("BOT_TOKEN", "7231089830:AAEtg4obq7JHvsZ0TcA-PSBi0vcJABV54e4") #Replace with your bot token
+API_ID = int(environ.get("API_ID", "20990799 ")) #Replace with your api id
+API_HASH = environ.get("API_HASH", "92e833c3f33d93d49dae472caeee3b26 ") #Replace with your api hash
+BOT_TOKEN = environ.get("BOT_TOKEN", "7231089830:7639171428:AAE04bR3UQQWxOhoJCOQIvkbo7uDKh4RnOE") #Replace with your bot token
